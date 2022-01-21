@@ -40,3 +40,8 @@ h2 {
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
+.music {
+  position: fixed;
+  top: 90%;
+  left: 38%;
+}
