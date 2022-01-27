@@ -1,5 +1,4 @@
 const h2 = document.createElement("h2");
-h2.textContent = "He is the best Vorngsam";
+h2.textContent = "*Is a little homophobic";
 
-document.querySelector("body").appendChild(h2);
-
+document.querySelector("footer").appendChild(h2);
